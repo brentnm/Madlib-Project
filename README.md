@@ -1,2 +1,2 @@
-# New-Project
-I don't know what this project is yet
+# Madlib Project
+This code lets the user input words and uses them to create a funny sentence. 
